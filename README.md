@@ -4,17 +4,28 @@
 
 🌟 Features:
 CRUD Operations: Easily create, read, update, and delete books.
+
 Search and Filter: Quickly find books by title, author, or genre.
+
 Authentication: Secure endpoints with token-based authentication for user-specific data.
+
 Pagination: Handle large collections effortlessly with built-in pagination.
+
 Custom Permissions: Fine-grained access control tailored to your needs.
 
 
+
 💻 Tech Stack:
+
 Backend: Django & Django Rest Framework
+
 Database: SQLite (default) – Easily swappable for PostgreSQL/MySQL
+
 Testing: Fully tested with Django’s test suite and DRF tools
+
 Documentation: Swagger/OpenAPI auto-generated docs for easy API exploration
+
+
 
 
 
